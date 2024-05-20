@@ -1,0 +1,127 @@
+* {
+    margin: 0;
+
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #4ea0ff;
+    background-image: url('./img/pattern.png');
+    height: 80px;
+    background-size: 23%;
+
+}
+
+#logo {
+    width: 200px;
+    padding-top: 30px;
+    padding-left: 10px;
+}
+
+.container {
+    padding-left: 10px;
+    margin-top: 20px;
+    width: 1100px;
+    padding-right: 50px;
+
+
+}
+
+.primo {
+    margin-top: 10px;
+    width: 100%;
+}
+
+.secondo {
+    margin-top: 10px;
+    width: 100%;
+    font-size: 18px;
+    padding-right: 20px;
+
+}
+
+.secondo ul {
+    list-style-position: inside;
+    margin: 20px;
+
+}
+
+
+
+p {
+    font-size: 18px;
+
+}
+
+.giallo {
+    background-color: yellow;
+}
+
+.thead {
+    background-color: #20a9e5;
+    color: white;
+    width: 100%;
+}
+
+#meta {
+    width: 25%;
+}
+
+#piena {
+    width: 50%;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+tbody tr td {
+    padding: 10px 0;
+    background-color: aquamarine;
+}
+
+footer {
+    padding-left: 10px;
+
+    width: 1100px;
+    padding-right: 50px;
+    position: relative;
+}
+
+
+
+#fh3 {
+    margin: 20px 0px;
+    color: grey;
+}
+
+.terzo h2 {
+    position: absolute;
+    top: -30px;
+    margin-left: 60px;
+
+    color: white;
+    font-size: 200%;
+    font-weight: bold;
+    line-height: 200px;
+    text-align: center;
+}
+
+.quarto {
+    margin-top: 10px;
+    position: relative;
+}
+
+.quarto h2 {
+    position: absolute;
+    top: -70px;
+    margin-left: 60px;
+
+    color: white;
+    font-size: 200%;
+    font-weight: bold;
+    line-height: 200px;
+    text-align: center;
+}
